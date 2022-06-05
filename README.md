@@ -3,4 +3,4 @@ Start of a project where I *attempt* to use MyFitnessPal's API to retrieve my us
 
 
 ## Graph of weekly weight average
-![Weekly weight average plot](weight-week-avg)
+![Weekly weight average plot](weight-week-avg.png)
