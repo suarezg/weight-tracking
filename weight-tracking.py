@@ -1,6 +1,5 @@
 from datetime import datetime
 import csv
-from sqlite3 import DateFromTicks
 
 DATE_FORMAT = "%Y-%m-%d"
 FILE = "weight-data.csv"
