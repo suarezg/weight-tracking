@@ -41,6 +41,7 @@ out_file.write(f"## Weight Data (as of {today_str})\n\n")
 # create heading and data for diff table
 out_file.write(f"### Weekly difference\n")
 out_file.write(md_text + "\n\n")
+out_file.write(f"**Average week-to-week gain:** {diff.mean()}\n\n")
 
 # Create image embedding
 out_file.write(f"### Average Weight per week\n")

@@ -30,6 +30,9 @@ Start of a project where I *attempt* to use MyFitnessPal's API to retrieve my us
 | 2022-06-05 00:00:00 |   0.193333  |
 | 2022-06-12 00:00:00 |   0.24      |
 
+**Average week-to-week gain:** Weight    0.333333
+dtype: float64
+
 ### Average Weight per week
 ![Weekly weight average plot](weight-week-avg.png)
 
